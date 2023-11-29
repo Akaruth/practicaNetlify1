@@ -1,3 +1,6 @@
 [build]
 command = "npm start"
 publish = "/"
+[[redirects]]
+from = "/"
+to = "/apliacionNetfili1.js"
