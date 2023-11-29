@@ -3,4 +3,4 @@ command = "npm start"
 publish = "/"
 [[redirects]]
 from = "/"
-to = "/headpage.html"
+to = "/headPage.html"
